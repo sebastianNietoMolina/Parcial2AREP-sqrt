@@ -1,6 +1,6 @@
 # Parcial2AREP-sqrt
 
-Buen día profesor, el video se encuentra en mi otro repositorio de git. dejare el link aquí.
+Buen día profesor, el video se encuentra en mi otro repositorio de git. dejare el link [aquí](https://github.com/sebastianNietoMolina/parcialAREP2-lambdaEXP/blob/main/fotos%20y%20videos/Parcial2AREPSebastianNieto.mp4)
 Esta sería la forma de hacer la petición si la maquina estuviera prendida, si desea probarlo me puede hacer la petición y la encenderé.
 
 ```
